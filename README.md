@@ -1,6 +1,3 @@
-# Samples
-Home page of samples
-
 # JavaServer Pages Samples
 
 [JavaServer Pages - HelloWorld](https://github.com/Shifatullah/jsp-helloworld)
