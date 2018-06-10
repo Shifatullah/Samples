@@ -8,7 +8,7 @@
 
 [Spring Framework - IoC - ApplicationContext - HelloWorld](https://github.com/Shifatullah/spring-applicationcontext-helloworld)
 
-# Flask Samples
+# Python Samples
 
 [Python - Flask - HelloWorld](https://github.com/Shifatullah/python-flask-helloworld)
 
