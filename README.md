@@ -11,3 +11,7 @@
 # Flask Samples
 
 [Python - Flask - HelloWorld](https://github.com/Shifatullah/python-flask-helloworld)
+
+# C++ Samples
+
+[C++ - HelloWorld](https://github.com/Shifatullah/cpp-helloworld)
