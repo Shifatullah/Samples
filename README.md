@@ -23,3 +23,7 @@
 # NodeJS Samples
 
 [NodeJS - HelloWorld](https://github.com/Shifatullah/nodejs-helloworld)
+
+# Go Samples
+
+[Go - HelloWorld](https://github.com/Shifatullah/go-helloworld)
