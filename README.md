@@ -27,3 +27,7 @@
 # Go Samples
 
 [Go - HelloWorld](https://github.com/Shifatullah/go-helloworld)
+
+# Azure Samples
+
+[Functions - Http Trigger - HelloWorld]https://github.com/Shifatullah/azure-functions-http-helloworld)(
