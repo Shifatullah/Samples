@@ -30,4 +30,4 @@
 
 # Azure Samples
 
-[Functions - Http Trigger - HelloWorld]https://github.com/Shifatullah/azure-functions-http-helloworld)(
+[Functions - Http Trigger - HelloWorld]https://github.com/Shifatullah/azure-functions-http-helloworld)
