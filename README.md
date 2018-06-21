@@ -2,11 +2,13 @@
 
 [JavaServer Pages - HelloWorld](https://github.com/Shifatullah/jsp-helloworld)
 
-# Spring Framework Samples
+# Spring Samples
 
 [Spring Framework - IoC - BeanFactory - HelloWorld](https://github.com/Shifatullah/spring-beanfactory-helloworld)
 
 [Spring Framework - IoC - ApplicationContext - HelloWorld](https://github.com/Shifatullah/spring-applicationcontext-helloworld)
+
+[Spring Security - Basic HTTP authentication - Sample](https://github.com/Shifatullah/springsecurity-basicauthentication-sample)
 
 # Python Samples
 
