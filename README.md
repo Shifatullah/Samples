@@ -1,6 +1,6 @@
 # ASP.Net Core MVC Samples
 
-[ASP.NetCore MVC - CRUD](https://github.com/shifatullah/aspnetcore-mvc-crud-sample)
+[ASP.NetCore MVC Sqlite - CRUD](https://github.com/shifatullah/aspnetcore-mvc-sqlite-crud-sample)
 
 # JavaServer Pages Samples
 
