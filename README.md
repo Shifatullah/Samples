@@ -1,6 +1,8 @@
-# ASP.Net Core MVC Samples
+# ASP.Net Core Samples
 
 [ASP.NetCore MVC Sqlite - CRUD](https://github.com/shifatullah/aspnetcore-mvc-sqlite-crud-sample)
+
+[ASP.NetCore MVC CosmosDB - Images](https://github.com/shifatullah/aspnetcore-mvc-cosmosdb-images-sample)
 
 # JavaServer Pages Samples
 
