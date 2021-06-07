@@ -6,11 +6,11 @@
 
 [CosmosDB - CRUD](https://github.com/shifatullah/azure-cosmosdb-crud-sample)
 
+[Blob - Images](https://github.com/shifatullah/azure-blob-images-sample)
+
 [Functions - Http Trigger - HelloWorld](https://github.com/Shifatullah/azure-functions-http-helloworld)
 
 [Functions - CosmoosDB Trigger - Image Resizer](https://github.com/shifatullah/azure-functions-image-resizer-sample)
-
-[Blob - Images](https://github.com/shifatullah/azure-blob-images-sample)
 
 # JavaServer Pages Samples
 
