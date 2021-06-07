@@ -1,8 +1,8 @@
 # ASP.Net Core Samples
 
-[ASP.NetCore MVC Sqlite - CRUD](https://github.com/shifatullah/aspnetcore-mvc-sqlite-crud-sample)
-
-[ASP.NetCore MVC CosmosDB - Images](https://github.com/shifatullah/aspnetcore-mvc-cosmosdb-images-sample)
+[Azure Blob - Images](https://github.com/shifatullah/azure-blob-images-sample)
+[Azure CosmosDB - CRUD](https://github.com/shifatullah/azure-cosmosdb-crud-sample)
+[ASP.NetCore MVC - CRUD](https://github.com/shifatullah/aspnetcore-mvc-crud-sample)
 
 # JavaServer Pages Samples
 
@@ -11,9 +11,7 @@
 # Spring Samples
 
 [Spring Framework - IoC - BeanFactory - HelloWorld](https://github.com/Shifatullah/spring-beanfactory-helloworld)
-
 [Spring Framework - IoC - ApplicationContext - HelloWorld](https://github.com/Shifatullah/spring-applicationcontext-helloworld)
-
 [Spring Security - Basic HTTP authentication - Sample](https://github.com/Shifatullah/springsecurity-basicauthentication-sample)
 
 # Python Samples
