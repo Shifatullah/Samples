@@ -1,12 +1,16 @@
 # ASP.Net Core Samples
 
-[Azure Functions - Image Resizer](https://github.com/shifatullah/azure-functions-image-resizer-sample)
+[MVC - CRUD](https://github.com/shifatullah/aspnetcore-mvc-crud-sample)
 
-[Azure Blob - Images](https://github.com/shifatullah/azure-blob-images-sample)
+# Azure Samples
 
-[Azure CosmosDB - CRUD](https://github.com/shifatullah/azure-cosmosdb-crud-sample)
+[CosmosDB - CRUD](https://github.com/shifatullah/azure-cosmosdb-crud-sample)
 
-[ASP.NetCore MVC - CRUD](https://github.com/shifatullah/aspnetcore-mvc-crud-sample)
+[Functions - Http Trigger - HelloWorld](https://github.com/Shifatullah/azure-functions-http-helloworld)
+
+[Functions - CosmoosDB Trigger - Image Resizer](https://github.com/shifatullah/azure-functions-image-resizer-sample)
+
+[Blob - Images](https://github.com/shifatullah/azure-blob-images-sample)
 
 # JavaServer Pages Samples
 
@@ -40,6 +44,3 @@
 
 [Go - HelloWorld](https://github.com/Shifatullah/go-helloworld)
 
-# Azure Samples
-
-[Functions - Http Trigger - HelloWorld](https://github.com/Shifatullah/azure-functions-http-helloworld)
