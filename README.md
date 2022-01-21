@@ -1,6 +1,7 @@
 # ASP.Net Core Samples
 
 [MVC - CRUD](https://github.com/shifatullah/aspnetcore-mvc-crud-sample)
+
 [Web API - OIDC](https://github.com/shifatullah/aspnetcore-webapi-oidc-sample)
 
 # Azure Samples
