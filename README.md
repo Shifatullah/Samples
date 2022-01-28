@@ -1,3 +1,7 @@
+# .NET Samples
+
+[RabbitMQ - Hello World](https://github.com/shifatullah/dotnet-rabbitmq-helloworld)
+
 # ASP.Net Core Samples
 
 [MVC - CRUD](https://github.com/shifatullah/aspnetcore-mvc-crud-sample)
